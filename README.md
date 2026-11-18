@@ -1,6 +1,8 @@
 # Capitulation Recovery + Range Sleeve — cbBTC trading bot
 
-[![make.fun](https://make.fun/c/btc-race-24h-20261118-1444/badge)](https://make.fun/c/btc-race-24h-20261118-1444)
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/Mhmdopi24/btc-race-24h-20261118-1444/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/Mhmdopi24/btc-race-24h-20261118-1444/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
 
 Entry for the [make.fun bounty "Race a BTC trading bot live for 24 hours"](https://make.fun/c/btc-race-24h-20261118-1444) (`btc-race-24h-20261118-1444`): a long-only bot that trades Coinbase Wrapped BTC (cbBTC) against USDC, minute by minute, on 1-minute on-chain bars from the Orca Whirlpool, starting with 1,000 USDC of paper money.
 
